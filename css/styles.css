@@ -21,17 +21,27 @@ aside{
 
 main{
     float: right;
+    padding-top: 22%;
+    padding-left: 22%;
+    padding-right: 23%;
+    padding-bottom: 3%;
     margin-top: 3%;
-    margin-right: 43%;
-  padding: 10%;
-   
+    margin-right: 3%;
+    margin-left: 3%;
+    display: flex;
+    align-items: center;
 }
 
 
 section{
-    float: left;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 23%;
+    padding-bottom: 3%;
     margin-top: 3%;
-    margin-right: 43%;
+    margin-right: 3%;
+    margin-left: 3%;
+    
 }
 
 footer{
