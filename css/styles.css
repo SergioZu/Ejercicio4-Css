@@ -9,6 +9,7 @@ header, aside, main, footer {
 header{
     padding: 3%;
     font-size: 30px;
+    background-color: white;
 }
 
 aside {
@@ -20,6 +21,7 @@ aside {
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
+    background-color: rgb(211, 207, 207);
 }
 
 #container{
@@ -48,8 +50,8 @@ footer{
     float: unset;
     margin-top: 55%;
     padding: 2%;
-    margin-right: 2%;
     text-align: center;
+    background-color: white;
 }
 
 iframe{
